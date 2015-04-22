@@ -1,0 +1,1 @@
+SELECT @@ServerName, db_name()
